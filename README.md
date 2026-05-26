@@ -5,7 +5,7 @@ Calculadora desarrollada en Python con Tkinter aplicando
 el paradigma de Programación Orientada a Objetos (POO).
 
 ## Tema visual elegido
-Elegi el Tema 4, en mi caso 
+Elegi el Tema 4, en mi caso elegi algo pastel y retro, siento que es algo representa las cosas que me gustan.
 
 ## Estructura del proyecto
 - `calculadora.py` — Archivo principal
